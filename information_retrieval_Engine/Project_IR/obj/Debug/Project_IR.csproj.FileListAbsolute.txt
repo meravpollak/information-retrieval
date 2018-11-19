@@ -1,0 +1,272 @@
+c:\users\dana\documents\visual studio 2015\Projects\Project_IR\Project_IR\bin\Debug\Project_IR.exe.config
+c:\users\dana\documents\visual studio 2015\Projects\Project_IR\Project_IR\obj\Debug\Project_IR.csprojResolveAssemblyReference.cache
+c:\users\dana\documents\visual studio 2015\Projects\Project_IR\Project_IR\obj\Debug\MainWindow.g.cs
+c:\users\dana\documents\visual studio 2015\Projects\Project_IR\Project_IR\obj\Debug\App.g.cs
+c:\users\dana\documents\visual studio 2015\Projects\Project_IR\Project_IR\obj\Debug\Project_IR_MarkupCompile.cache
+c:\users\dana\documents\visual studio 2015\Projects\Project_IR\Project_IR\obj\Debug\Project_IR_MarkupCompile.lref
+c:\users\dana\documents\visual studio 2015\Projects\Project_IR\Project_IR\bin\Debug\Project_IR.exe
+c:\users\dana\documents\visual studio 2015\Projects\Project_IR\Project_IR\bin\Debug\Project_IR.pdb
+c:\users\dana\documents\visual studio 2015\Projects\Project_IR\Project_IR\obj\Debug\MainWindow.baml
+c:\users\dana\documents\visual studio 2015\Projects\Project_IR\Project_IR\obj\Debug\Project_IR.g.resources
+c:\users\dana\documents\visual studio 2015\Projects\Project_IR\Project_IR\obj\Debug\Project_IR.Properties.Resources.resources
+c:\users\dana\documents\visual studio 2015\Projects\Project_IR\Project_IR\obj\Debug\Project_IR.csproj.GenerateResource.Cache
+c:\users\dana\documents\visual studio 2015\Projects\Project_IR\Project_IR\obj\Debug\Project_IR.exe
+c:\users\dana\documents\visual studio 2015\Projects\Project_IR\Project_IR\obj\Debug\Project_IR.pdb
+C:\Users\Dana\Documents\Visual Studio 2015\Projects\Project_IR\Project_IR\obj\Debug\ShowDic.g.cs
+C:\Users\Dana\Documents\Visual Studio 2015\Projects\Project_IR\Project_IR\obj\Debug\ShowDic.baml
+C:\Users\Dana\Desktop\Project_IR\Project_IR\bin\Debug\Project_IR.exe.config
+C:\Users\Dana\Desktop\Project_IR\Project_IR\obj\Debug\Project_IR.exe
+C:\Users\Dana\Desktop\Project_IR\Project_IR\obj\Debug\Project_IR.pdb
+C:\Users\Dana\Desktop\Project_IR\Project_IR\bin\Debug\Project_IR.exe
+C:\Users\Dana\Desktop\Project_IR\Project_IR\bin\Debug\Project_IR.pdb
+C:\Users\Dana\Desktop\Project_IR\Project_IR\obj\Debug\Project_IR.csprojResolveAssemblyReference.cache
+C:\Users\Dana\Desktop\Project_IR\Project_IR\obj\Debug\MainWindow.g.cs
+C:\Users\Dana\Desktop\Project_IR\Project_IR\obj\Debug\ShowDic.g.cs
+C:\Users\Dana\Desktop\Project_IR\Project_IR\obj\Debug\App.g.cs
+C:\Users\Dana\Desktop\Project_IR\Project_IR\obj\Debug\Project_IR_MarkupCompile.cache
+C:\Users\Dana\Desktop\Project_IR\Project_IR\obj\Debug\Project_IR_MarkupCompile.lref
+C:\Users\Dana\Desktop\Project_IR\Project_IR\obj\Debug\MainWindow.baml
+C:\Users\Dana\Desktop\Project_IR\Project_IR\obj\Debug\ShowDic.baml
+C:\Users\Dana\Desktop\Project_IR\Project_IR\obj\Debug\Project_IR.g.resources
+C:\Users\Dana\Desktop\Project_IR\Project_IR\obj\Debug\Project_IR.Properties.Resources.resources
+C:\Users\Dana\Desktop\Project_IR\Project_IR\obj\Debug\Project_IR.csproj.GenerateResource.Cache
+C:\Users\Dana\Desktop\קורסים שנה ג סמסטר א\אחזור מידע\עבודות\מנוע חלק א\308365493_305759771_חלק א סופי\Project_IR\bin\Debug\Project_IR.exe.config
+C:\Users\Dana\Desktop\קורסים שנה ג סמסטר א\אחזור מידע\עבודות\מנוע חלק א\308365493_305759771_חלק א סופי\Project_IR\obj\Debug\Project_IR.exe
+C:\Users\Dana\Desktop\קורסים שנה ג סמסטר א\אחזור מידע\עבודות\מנוע חלק א\308365493_305759771_חלק א סופי\Project_IR\obj\Debug\Project_IR.pdb
+C:\Users\Dana\Desktop\קורסים שנה ג סמסטר א\אחזור מידע\עבודות\מנוע חלק א\308365493_305759771_חלק א סופי\Project_IR\bin\Debug\Project_IR.exe
+C:\Users\Dana\Desktop\קורסים שנה ג סמסטר א\אחזור מידע\עבודות\מנוע חלק א\308365493_305759771_חלק א סופי\Project_IR\bin\Debug\Project_IR.pdb
+C:\Users\Dana\Desktop\קורסים שנה ג סמסטר א\אחזור מידע\עבודות\מנוע חלק א\308365493_305759771_חלק א סופי\Project_IR\obj\Debug\Project_IR.csprojResolveAssemblyReference.cache
+C:\Users\Dana\Desktop\קורסים שנה ג סמסטר א\אחזור מידע\עבודות\מנוע חלק א\308365493_305759771_חלק א סופי\Project_IR\obj\Debug\MainWindow.g.cs
+C:\Users\Dana\Desktop\קורסים שנה ג סמסטר א\אחזור מידע\עבודות\מנוע חלק א\308365493_305759771_חלק א סופי\Project_IR\obj\Debug\ShowDic.g.cs
+C:\Users\Dana\Desktop\קורסים שנה ג סמסטר א\אחזור מידע\עבודות\מנוע חלק א\308365493_305759771_חלק א סופי\Project_IR\obj\Debug\App.g.cs
+C:\Users\Dana\Desktop\קורסים שנה ג סמסטר א\אחזור מידע\עבודות\מנוע חלק א\308365493_305759771_חלק א סופי\Project_IR\obj\Debug\Project_IR_MarkupCompile.cache
+C:\Users\Dana\Desktop\קורסים שנה ג סמסטר א\אחזור מידע\עבודות\מנוע חלק א\308365493_305759771_חלק א סופי\Project_IR\obj\Debug\Project_IR_MarkupCompile.lref
+C:\Users\Dana\Desktop\קורסים שנה ג סמסטר א\אחזור מידע\עבודות\מנוע חלק א\308365493_305759771_חלק א סופי\Project_IR\obj\Debug\MainWindow.baml
+C:\Users\Dana\Desktop\קורסים שנה ג סמסטר א\אחזור מידע\עבודות\מנוע חלק א\308365493_305759771_חלק א סופי\Project_IR\obj\Debug\ShowDic.baml
+C:\Users\Dana\Desktop\קורסים שנה ג סמסטר א\אחזור מידע\עבודות\מנוע חלק א\308365493_305759771_חלק א סופי\Project_IR\obj\Debug\Project_IR.g.resources
+C:\Users\Dana\Desktop\קורסים שנה ג סמסטר א\אחזור מידע\עבודות\מנוע חלק א\308365493_305759771_חלק א סופי\Project_IR\obj\Debug\Project_IR.Properties.Resources.resources
+C:\Users\Dana\Desktop\קורסים שנה ג סמסטר א\אחזור מידע\עבודות\מנוע חלק א\308365493_305759771_חלק א סופי\Project_IR\obj\Debug\Project_IR.csproj.GenerateResource.Cache
+C:\Users\Dana\Desktop\Part2\Project_IR\bin\Debug\Project_IR.exe.config
+C:\Users\Dana\Desktop\Part2\Project_IR\obj\Debug\Project_IR.exe
+C:\Users\Dana\Desktop\Part2\Project_IR\obj\Debug\Project_IR.pdb
+C:\Users\Dana\Desktop\Part2\Project_IR\bin\Debug\Project_IR.exe
+C:\Users\Dana\Desktop\Part2\Project_IR\bin\Debug\Project_IR.pdb
+C:\Users\Dana\Desktop\Part2\Project_IR\obj\Debug\Project_IR.csprojResolveAssemblyReference.cache
+C:\Users\Dana\Desktop\Part2\Project_IR\obj\Debug\MainWindow.g.cs
+C:\Users\Dana\Desktop\Part2\Project_IR\obj\Debug\ShowDic.g.cs
+C:\Users\Dana\Desktop\Part2\Project_IR\obj\Debug\App.g.cs
+C:\Users\Dana\Desktop\Part2\Project_IR\obj\Debug\Project_IR_MarkupCompile.cache
+C:\Users\Dana\Desktop\Part2\Project_IR\obj\Debug\Project_IR_MarkupCompile.lref
+C:\Users\Dana\Desktop\Part2\Project_IR\obj\Debug\MainWindow.baml
+C:\Users\Dana\Desktop\Part2\Project_IR\obj\Debug\ShowDic.baml
+C:\Users\Dana\Desktop\Part2\Project_IR\obj\Debug\Project_IR.g.resources
+C:\Users\Dana\Desktop\Part2\Project_IR\obj\Debug\Project_IR.Properties.Resources.resources
+C:\Users\Dana\Desktop\Part2\Project_IR\obj\Debug\Project_IR.csproj.GenerateResource.Cache
+S:\מנוע\fix_dana_merge_connected\Project_IR\bin\Debug\Project_IR.exe.config
+S:\מנוע\fix_dana_merge_connected\Project_IR\obj\Debug\Project_IR.exe
+S:\מנוע\fix_dana_merge_connected\Project_IR\obj\Debug\Project_IR.pdb
+S:\מנוע\fix_dana_merge_connected\Project_IR\bin\Debug\Project_IR.exe
+S:\מנוע\fix_dana_merge_connected\Project_IR\bin\Debug\Project_IR.pdb
+S:\מנוע\fix_dana_merge_connected\Project_IR\obj\Debug\Project_IR.csprojResolveAssemblyReference.cache
+S:\מנוע\fix_dana_merge_connected\Project_IR\obj\Debug\MainWindow.g.cs
+S:\מנוע\fix_dana_merge_connected\Project_IR\obj\Debug\ShowDic.g.cs
+S:\מנוע\fix_dana_merge_connected\Project_IR\obj\Debug\App.g.cs
+S:\מנוע\fix_dana_merge_connected\Project_IR\obj\Debug\Project_IR_MarkupCompile.cache
+S:\מנוע\fix_dana_merge_connected\Project_IR\obj\Debug\Project_IR_MarkupCompile.lref
+S:\מנוע\fix_dana_merge_connected\Project_IR\obj\Debug\MainWindow.baml
+S:\מנוע\fix_dana_merge_connected\Project_IR\obj\Debug\ShowDic.baml
+S:\מנוע\fix_dana_merge_connected\Project_IR\obj\Debug\Project_IR.g.resources
+S:\מנוע\fix_dana_merge_connected\Project_IR\obj\Debug\Project_IR.Properties.Resources.resources
+S:\מנוע\fix_dana_merge_connected\Project_IR\obj\Debug\Project_IR.csproj.GenerateResource.Cache
+S:\מנוע\Maabada\Project_IR\bin\Debug\Project_IR.exe.config
+S:\מנוע\Maabada\Project_IR\obj\Debug\Project_IR.exe
+S:\מנוע\Maabada\Project_IR\obj\Debug\Project_IR.pdb
+S:\מנוע\Maabada\Project_IR\bin\Debug\Project_IR.exe
+S:\מנוע\Maabada\Project_IR\bin\Debug\Project_IR.pdb
+S:\מנוע\Maabada\Project_IR\obj\Debug\Project_IR.csprojResolveAssemblyReference.cache
+S:\מנוע\Maabada\Project_IR\obj\Debug\MainWindow.g.cs
+S:\מנוע\Maabada\Project_IR\obj\Debug\ShowDic.g.cs
+S:\מנוע\Maabada\Project_IR\obj\Debug\App.g.cs
+S:\מנוע\Maabada\Project_IR\obj\Debug\Project_IR_MarkupCompile.cache
+S:\מנוע\Maabada\Project_IR\obj\Debug\Project_IR_MarkupCompile.lref
+S:\מנוע\Maabada\Project_IR\obj\Debug\MainWindow.baml
+S:\מנוע\Maabada\Project_IR\obj\Debug\ShowDic.baml
+S:\מנוע\Maabada\Project_IR\obj\Debug\Project_IR.g.resources
+S:\מנוע\Maabada\Project_IR\obj\Debug\Project_IR.Properties.Resources.resources
+S:\מנוע\Maabada\Project_IR\obj\Debug\Project_IR.csproj.GenerateResource.Cache
+S:\מנוע\Maabada\Project_IR\obj\Debug\showRelevantdocs.baml
+S:\מנוע\Maabada\Project_IR\obj\Debug\showRelevantdocs.g.cs
+D:\מנוע\DanaAfterMervaLast\Project_IR\bin\Debug\Project_IR.exe.config
+D:\מנוע\DanaAfterMervaLast\Project_IR\obj\Debug\Project_IR.exe
+D:\מנוע\DanaAfterMervaLast\Project_IR\obj\Debug\Project_IR.pdb
+D:\מנוע\DanaAfterMervaLast\Project_IR\obj\Debug\Project_IR.csprojResolveAssemblyReference.cache
+D:\מנוע\DanaAfterMervaLast\Project_IR\obj\Debug\showRelevantdocs.baml
+D:\מנוע\DanaAfterMervaLast\Project_IR\obj\Debug\MainWindow.g.cs
+D:\מנוע\DanaAfterMervaLast\Project_IR\obj\Debug\ShowDic.g.cs
+D:\מנוע\DanaAfterMervaLast\Project_IR\obj\Debug\showRelevantdocs.g.cs
+D:\מנוע\DanaAfterMervaLast\Project_IR\obj\Debug\App.g.cs
+D:\מנוע\DanaAfterMervaLast\Project_IR\obj\Debug\Project_IR_MarkupCompile.cache
+D:\מנוע\DanaAfterMervaLast\Project_IR\obj\Debug\Project_IR_MarkupCompile.lref
+D:\מנוע\DanaAfterMervaLast\Project_IR\bin\Debug\Project_IR.exe
+D:\מנוע\DanaAfterMervaLast\Project_IR\bin\Debug\Project_IR.pdb
+D:\מנוע\DanaAfterMervaLast\Project_IR\obj\Debug\MainWindow.baml
+D:\מנוע\DanaAfterMervaLast\Project_IR\obj\Debug\ShowDic.baml
+D:\מנוע\DanaAfterMervaLast\Project_IR\obj\Debug\Project_IR.g.resources
+D:\מנוע\DanaAfterMervaLast\Project_IR\obj\Debug\Project_IR.Properties.Resources.resources
+D:\מנוע\DanaAfterMervaLast\Project_IR\obj\Debug\Project_IR.csproj.GenerateResource.Cache
+C:\Users\Dana\Desktop\Dana_Fixed_17.1\Project_IR\bin\Debug\Project_IR.exe.config
+C:\Users\Dana\Desktop\Dana_Fixed_17.1\Project_IR\obj\Debug\Project_IR.exe
+C:\Users\Dana\Desktop\Dana_Fixed_17.1\Project_IR\obj\Debug\Project_IR.pdb
+C:\Users\Dana\Desktop\Dana_Fixed_17.1\Project_IR\bin\Debug\Project_IR.exe
+C:\Users\Dana\Desktop\Dana_Fixed_17.1\Project_IR\bin\Debug\Project_IR.pdb
+C:\Users\Dana\Desktop\Dana_Fixed_17.1\Project_IR\obj\Debug\Project_IR.csprojResolveAssemblyReference.cache
+C:\Users\Dana\Desktop\Dana_Fixed_17.1\Project_IR\obj\Debug\showRelevantdocs.baml
+C:\Users\Dana\Desktop\Dana_Fixed_17.1\Project_IR\obj\Debug\MainWindow.g.cs
+C:\Users\Dana\Desktop\Dana_Fixed_17.1\Project_IR\obj\Debug\ShowDic.g.cs
+C:\Users\Dana\Desktop\Dana_Fixed_17.1\Project_IR\obj\Debug\showRelevantdocs.g.cs
+C:\Users\Dana\Desktop\Dana_Fixed_17.1\Project_IR\obj\Debug\App.g.cs
+C:\Users\Dana\Desktop\Dana_Fixed_17.1\Project_IR\obj\Debug\Project_IR_MarkupCompile.cache
+C:\Users\Dana\Desktop\Dana_Fixed_17.1\Project_IR\obj\Debug\Project_IR_MarkupCompile.lref
+C:\Users\Dana\Desktop\Dana_Fixed_17.1\Project_IR\obj\Debug\MainWindow.baml
+C:\Users\Dana\Desktop\Dana_Fixed_17.1\Project_IR\obj\Debug\ShowDic.baml
+C:\Users\Dana\Desktop\Dana_Fixed_17.1\Project_IR\obj\Debug\Project_IR.g.resources
+C:\Users\Dana\Desktop\Dana_Fixed_17.1\Project_IR\obj\Debug\Project_IR.Properties.Resources.resources
+C:\Users\Dana\Desktop\Dana_Fixed_17.1\Project_IR\obj\Debug\Project_IR.csproj.GenerateResource.Cache
+C:\Users\Dana\Desktop\Dana_Fixed_17.1\Project_IR\bin\Debug\LAIR.Collections.dll
+C:\Users\Dana\Desktop\Dana_Fixed_17.1\Project_IR\bin\Debug\LAIR.Extensions.dll
+C:\Users\Dana\Desktop\Dana_Fixed_17.1\Project_IR\bin\Debug\LAIR.IO.dll
+C:\Users\Dana\Desktop\Dana_Fixed_17.1\Project_IR\bin\Debug\LAIR.ResourceAPIs.WordNet.dll
+C:\Users\Dana\Desktop\Dana_Fixed_17.1\Project_IR\bin\Debug\LAIR.Collections.xml
+C:\Users\Dana\Desktop\Dana_Fixed_17.1\Project_IR\bin\Debug\LAIR.Extensions.xml
+C:\Users\Dana\Desktop\Dana_Fixed_17.1\Project_IR\bin\Debug\LAIR.IO.xml
+C:\Users\Dana\Desktop\Dana_Fixed_17.1\Project_IR\bin\Debug\LAIR.ResourceAPIs.WordNet.pdb
+D:\מנוע\Project_IR\Project_IR\bin\Debug\Project_IR.exe.config
+D:\מנוע\Project_IR\Project_IR\obj\Debug\Project_IR.exe
+D:\מנוע\Project_IR\Project_IR\obj\Debug\Project_IR.pdb
+D:\מנוע\Project_IR\Project_IR\obj\Debug\Project_IR.csprojResolveAssemblyReference.cache
+D:\מנוע\Project_IR\Project_IR\obj\Debug\showRelevantdocs.baml
+D:\מנוע\Project_IR\Project_IR\obj\Debug\MainWindow.g.cs
+D:\מנוע\Project_IR\Project_IR\obj\Debug\ShowDic.g.cs
+D:\מנוע\Project_IR\Project_IR\obj\Debug\showRelevantdocs.g.cs
+D:\מנוע\Project_IR\Project_IR\obj\Debug\App.g.cs
+D:\מנוע\Project_IR\Project_IR\obj\Debug\Project_IR_MarkupCompile.cache
+D:\מנוע\Project_IR\Project_IR\obj\Debug\Project_IR_MarkupCompile.lref
+D:\מנוע\Project_IR\Project_IR\bin\Debug\Project_IR.exe
+D:\מנוע\Project_IR\Project_IR\bin\Debug\Project_IR.pdb
+D:\מנוע\Project_IR\Project_IR\bin\Debug\LAIR.Collections.dll
+D:\מנוע\Project_IR\Project_IR\bin\Debug\LAIR.Extensions.dll
+D:\מנוע\Project_IR\Project_IR\bin\Debug\LAIR.IO.dll
+D:\מנוע\Project_IR\Project_IR\bin\Debug\LAIR.ResourceAPIs.WordNet.dll
+D:\מנוע\Project_IR\Project_IR\bin\Debug\LAIR.Collections.xml
+D:\מנוע\Project_IR\Project_IR\bin\Debug\LAIR.Extensions.xml
+D:\מנוע\Project_IR\Project_IR\bin\Debug\LAIR.IO.xml
+D:\מנוע\Project_IR\Project_IR\bin\Debug\LAIR.ResourceAPIs.WordNet.pdb
+D:\מנוע\Project_IR\Project_IR\obj\Debug\MainWindow.baml
+D:\מנוע\Project_IR\Project_IR\obj\Debug\ShowDic.baml
+D:\מנוע\Project_IR\Project_IR\obj\Debug\Project_IR.g.resources
+D:\מנוע\Project_IR\Project_IR\obj\Debug\Project_IR.Properties.Resources.resources
+D:\מנוע\Project_IR\Project_IR\obj\Debug\Project_IR.csproj.GenerateResource.Cache
+D:\מנוע\Dana_Last_18.1\Project_IR\bin\Debug\Project_IR.exe.config
+D:\מנוע\Dana_Last_18.1\Project_IR\obj\Debug\Project_IR.exe
+D:\מנוע\Dana_Last_18.1\Project_IR\obj\Debug\Project_IR.pdb
+D:\מנוע\Dana_Last_18.1\Project_IR\bin\Debug\Project_IR.exe
+D:\מנוע\Dana_Last_18.1\Project_IR\bin\Debug\Project_IR.pdb
+D:\מנוע\Dana_Last_18.1\Project_IR\bin\Debug\LAIR.Collections.dll
+D:\מנוע\Dana_Last_18.1\Project_IR\bin\Debug\LAIR.Extensions.dll
+D:\מנוע\Dana_Last_18.1\Project_IR\bin\Debug\LAIR.IO.dll
+D:\מנוע\Dana_Last_18.1\Project_IR\bin\Debug\LAIR.ResourceAPIs.WordNet.dll
+D:\מנוע\Dana_Last_18.1\Project_IR\bin\Debug\LAIR.Collections.xml
+D:\מנוע\Dana_Last_18.1\Project_IR\bin\Debug\LAIR.Extensions.xml
+D:\מנוע\Dana_Last_18.1\Project_IR\bin\Debug\LAIR.IO.xml
+D:\מנוע\Dana_Last_18.1\Project_IR\bin\Debug\LAIR.ResourceAPIs.WordNet.pdb
+D:\מנוע\Dana_Last_18.1\Project_IR\obj\Debug\Project_IR.csprojResolveAssemblyReference.cache
+D:\מנוע\Dana_Last_18.1\Project_IR\obj\Debug\showRelevantdocs.baml
+D:\מנוע\Dana_Last_18.1\Project_IR\obj\Debug\MainWindow.g.cs
+D:\מנוע\Dana_Last_18.1\Project_IR\obj\Debug\ShowDic.g.cs
+D:\מנוע\Dana_Last_18.1\Project_IR\obj\Debug\showRelevantdocs.g.cs
+D:\מנוע\Dana_Last_18.1\Project_IR\obj\Debug\App.g.cs
+D:\מנוע\Dana_Last_18.1\Project_IR\obj\Debug\Project_IR_MarkupCompile.cache
+D:\מנוע\Dana_Last_18.1\Project_IR\obj\Debug\Project_IR_MarkupCompile.lref
+D:\מנוע\Dana_Last_18.1\Project_IR\obj\Debug\MainWindow.baml
+D:\מנוע\Dana_Last_18.1\Project_IR\obj\Debug\ShowDic.baml
+D:\מנוע\Dana_Last_18.1\Project_IR\obj\Debug\Project_IR.g.resources
+D:\מנוע\Dana_Last_18.1\Project_IR\obj\Debug\Project_IR.Properties.Resources.resources
+D:\מנוע\Dana_Last_18.1\Project_IR\obj\Debug\Project_IR.csproj.GenerateResource.Cache
+D:\Last_19.1\Project_IR\bin\Debug\Project_IR.exe.config
+D:\Last_19.1\Project_IR\obj\Debug\Project_IR.exe
+D:\Last_19.1\Project_IR\obj\Debug\Project_IR.pdb
+D:\Last_19.1\Project_IR\bin\Debug\Project_IR.exe
+D:\Last_19.1\Project_IR\bin\Debug\Project_IR.pdb
+D:\Last_19.1\Project_IR\bin\Debug\LAIR.Collections.dll
+D:\Last_19.1\Project_IR\bin\Debug\LAIR.Extensions.dll
+D:\Last_19.1\Project_IR\bin\Debug\LAIR.IO.dll
+D:\Last_19.1\Project_IR\bin\Debug\LAIR.ResourceAPIs.WordNet.dll
+D:\Last_19.1\Project_IR\bin\Debug\LAIR.Collections.xml
+D:\Last_19.1\Project_IR\bin\Debug\LAIR.Extensions.xml
+D:\Last_19.1\Project_IR\bin\Debug\LAIR.IO.xml
+D:\Last_19.1\Project_IR\bin\Debug\LAIR.ResourceAPIs.WordNet.pdb
+D:\Last_19.1\Project_IR\obj\Debug\Project_IR.csprojResolveAssemblyReference.cache
+D:\Last_19.1\Project_IR\obj\Debug\showRelevantdocs.baml
+D:\Last_19.1\Project_IR\obj\Debug\MainWindow.g.cs
+D:\Last_19.1\Project_IR\obj\Debug\ShowDic.g.cs
+D:\Last_19.1\Project_IR\obj\Debug\showRelevantdocs.g.cs
+D:\Last_19.1\Project_IR\obj\Debug\App.g.cs
+D:\Last_19.1\Project_IR\obj\Debug\Project_IR_MarkupCompile.cache
+D:\Last_19.1\Project_IR\obj\Debug\Project_IR_MarkupCompile.lref
+D:\Last_19.1\Project_IR\obj\Debug\MainWindow.baml
+D:\Last_19.1\Project_IR\obj\Debug\ShowDic.baml
+D:\Last_19.1\Project_IR\obj\Debug\Project_IR.g.resources
+D:\Last_19.1\Project_IR\obj\Debug\Project_IR.Properties.Resources.resources
+D:\Last_19.1\Project_IR\obj\Debug\Project_IR.csproj.GenerateResource.Cache
+D:\Last20.1\Project_IR\bin\Debug\Project_IR.exe.config
+D:\Last20.1\Project_IR\obj\Debug\Project_IR.exe
+D:\Last20.1\Project_IR\obj\Debug\Project_IR.pdb
+D:\Last20.1\Project_IR\bin\Debug\Project_IR.exe
+D:\Last20.1\Project_IR\bin\Debug\Project_IR.pdb
+D:\Last20.1\Project_IR\bin\Debug\LAIR.Collections.dll
+D:\Last20.1\Project_IR\bin\Debug\LAIR.Extensions.dll
+D:\Last20.1\Project_IR\bin\Debug\LAIR.IO.dll
+D:\Last20.1\Project_IR\bin\Debug\LAIR.ResourceAPIs.WordNet.dll
+D:\Last20.1\Project_IR\bin\Debug\LAIR.Collections.xml
+D:\Last20.1\Project_IR\bin\Debug\LAIR.Extensions.xml
+D:\Last20.1\Project_IR\bin\Debug\LAIR.IO.xml
+D:\Last20.1\Project_IR\bin\Debug\LAIR.ResourceAPIs.WordNet.pdb
+D:\Last20.1\Project_IR\obj\Debug\Project_IR.csprojResolveAssemblyReference.cache
+D:\Last20.1\Project_IR\obj\Debug\showRelevantdocs.baml
+D:\Last20.1\Project_IR\obj\Debug\MainWindow.g.cs
+D:\Last20.1\Project_IR\obj\Debug\ShowDic.g.cs
+D:\Last20.1\Project_IR\obj\Debug\showRelevantdocs.g.cs
+D:\Last20.1\Project_IR\obj\Debug\App.g.cs
+D:\Last20.1\Project_IR\obj\Debug\Project_IR_MarkupCompile.cache
+D:\Last20.1\Project_IR\obj\Debug\Project_IR_MarkupCompile.lref
+D:\Last20.1\Project_IR\obj\Debug\MainWindow.baml
+D:\Last20.1\Project_IR\obj\Debug\ShowDic.baml
+D:\Last20.1\Project_IR\obj\Debug\Project_IR.g.resources
+D:\Last20.1\Project_IR\obj\Debug\Project_IR.Properties.Resources.resources
+D:\Last20.1\Project_IR\obj\Debug\Project_IR.csproj.GenerateResource.Cache
+D:\corpus\manoa\Project_IR\bin\Debug\Project_IR.exe.config
+D:\corpus\manoa\Project_IR\obj\Debug\Project_IR.exe
+D:\corpus\manoa\Project_IR\obj\Debug\Project_IR.pdb
+D:\corpus\manoa\Project_IR\bin\Debug\Project_IR.exe
+D:\corpus\manoa\Project_IR\bin\Debug\Project_IR.pdb
+D:\corpus\manoa\Project_IR\bin\Debug\LAIR.Collections.dll
+D:\corpus\manoa\Project_IR\bin\Debug\LAIR.Extensions.dll
+D:\corpus\manoa\Project_IR\bin\Debug\LAIR.IO.dll
+D:\corpus\manoa\Project_IR\bin\Debug\LAIR.ResourceAPIs.WordNet.dll
+D:\corpus\manoa\Project_IR\bin\Debug\LAIR.Collections.xml
+D:\corpus\manoa\Project_IR\bin\Debug\LAIR.Extensions.xml
+D:\corpus\manoa\Project_IR\bin\Debug\LAIR.IO.xml
+D:\corpus\manoa\Project_IR\bin\Debug\LAIR.ResourceAPIs.WordNet.pdb
+D:\corpus\manoa\Project_IR\obj\Debug\Project_IR.csprojResolveAssemblyReference.cache
+D:\corpus\manoa\Project_IR\obj\Debug\showRelevantdocs.baml
+D:\corpus\manoa\Project_IR\obj\Debug\MainWindow.g.cs
+D:\corpus\manoa\Project_IR\obj\Debug\ShowDic.g.cs
+D:\corpus\manoa\Project_IR\obj\Debug\showRelevantdocs.g.cs
+D:\corpus\manoa\Project_IR\obj\Debug\App.g.cs
+D:\corpus\manoa\Project_IR\obj\Debug\Project_IR_MarkupCompile.cache
+D:\corpus\manoa\Project_IR\obj\Debug\Project_IR_MarkupCompile.lref
+D:\corpus\manoa\Project_IR\obj\Debug\MainWindow.baml
+D:\corpus\manoa\Project_IR\obj\Debug\ShowDic.baml
+D:\corpus\manoa\Project_IR\obj\Debug\Project_IR.g.resources
+D:\corpus\manoa\Project_IR\obj\Debug\Project_IR.Properties.Resources.resources
+D:\corpus\manoa\Project_IR\obj\Debug\Project_IR.csproj.GenerateResource.Cache

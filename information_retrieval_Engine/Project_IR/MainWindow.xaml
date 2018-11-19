@@ -1,0 +1,74 @@
+﻿<Window x:Class="Project_IR.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Project_IR"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="650" Width="600">
+    <Grid Background="AntiqueWhite">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.7*"></ColumnDefinition>
+            <ColumnDefinition Width="0.5*"></ColumnDefinition>
+            <ColumnDefinition Width="0.4*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*" ></RowDefinition>
+            <RowDefinition Height="1*" ></RowDefinition>
+            <RowDefinition Height="1*" ></RowDefinition>
+            <RowDefinition Height="1*" ></RowDefinition>
+            <RowDefinition Height="1*" ></RowDefinition>
+            <RowDefinition Height="0.7*" ></RowDefinition>
+            <RowDefinition Height="1*" ></RowDefinition>
+            <RowDefinition Height="1.5*" ></RowDefinition>
+            <RowDefinition Height="1*" ></RowDefinition>
+            <RowDefinition Height="1.2*" ></RowDefinition>
+            <RowDefinition Height="1*" ></RowDefinition>
+           
+        </Grid.RowDefinitions>
+        <TextBlock Foreground="Brown" VerticalAlignment="Center" TextAlignment="Center" Grid.ColumnSpan="3" Grid.Row="0" Grid.Column="0"  Text="Enter paths and create posting and dictionary: "></TextBlock>
+        
+        <TextBlock Foreground="black" VerticalAlignment="Center" Grid.Row="1" TextAlignment="Center" Text="Choose path for Documents and Stop words"></TextBlock>
+        <TextBox Name="TextBoxCorpus" VerticalAlignment="Center"  Margin="10,15,10,15" Grid.Column="1" Grid.Row="1" Text="{Binding Path=Value,ElementName=TextBoxCorpus}"></TextBox>
+        <Button Content="browse" Name="browseDoc" Grid.Row="1" Grid.Column="2" Margin="35,15,35,15" Click="browseDoc_Click"></Button>
+
+        <TextBlock Foreground="black" Grid.Row="2" VerticalAlignment="Center" TextAlignment="Center" Text="Choose path for Save Dictionary and Posting"></TextBlock>
+        <TextBox Name="TextBoxPosting" VerticalAlignment="Center"  Margin="10,15,10,15" Grid.Column="1" Grid.Row="2" Text="{Binding Path=Value,ElementName=TextBoxPosting}"></TextBox>
+        <Button Content="browse" Name="broewsePosting"  Grid.Row="2" Grid.Column="2" Margin="35,15,35,15" Click="broewsePosting_Click"></Button>
+
+        <CheckBox Name="checkBoxStem" Grid.Row="3" Content=" Do Stemming" VerticalAlignment="Center" HorizontalAlignment="Center" ></CheckBox>
+        <Button Content="Start" Name="Start"  Foreground="Brown"  Grid.Row="3" Grid.Column="1" Margin="20,9,20,9" Click="Start_Click"></Button>
+
+        <TextBlock Foreground="Brown" VerticalAlignment="Center" TextAlignment="Center" Grid.ColumnSpan="3" Grid.Row="5" Grid.Column="0"  Text="Enter your query and search for relevant documents: "></TextBlock>
+        
+        <TextBlock Foreground="black" VerticalAlignment="Center" TextAlignment="Center" Grid.Row="9" Grid.Column="0"  Text="Enter query: "></TextBlock>
+        <TextBox Name="queryTextBox" VerticalAlignment="Center"  Grid.ColumnSpan="1" Grid.Column="1" Grid.Row="9" Text="{Binding Path=Value,ElementName=queryTextBox}" Height="35" PreviewKeyDown="queryTextBox_PreviewKeyDown" ></TextBox>
+        <ListBox  Name ="contentWordsList" Grid.Row="9" Grid.Column="2" Margin="7,0,9,0" SelectionChanged="contentWords_SelectionChanged"></ListBox>
+
+        
+        
+        
+        <TextBlock Foreground="black" VerticalAlignment="Center" TextAlignment="Center" Grid.Row="8" Grid.Column="0"  Text="Enter path of queries: "></TextBlock>
+        <TextBox Name="queriesFileTextBox" VerticalAlignment="Center"  Margin="10,15,10,15" Grid.Column="1" Grid.Row="8" Text="{Binding Path=Value,ElementName=queriesFileTextBox}"></TextBox>
+        <Button Content="browse file" Name="browseFileQueries" Grid.Row ="8" Grid.Column="2" Margin="35,15,35,15" Click="browseFileQueries_Click"></Button>
+
+        <TextBlock Foreground="black" VerticalAlignment="Center" TextAlignment="Center" Grid.Row="7" Grid.Column="0"  Text="Languages:"></TextBlock>
+        <ListBox SelectionMode="multiple" Name ="ListBoxLanguages" Grid.Row="7" Grid.Column="1" Margin="5,0,5,0" SelectionChanged="ListBox_SelectionChanged"></ListBox>
+
+        <TextBlock Foreground="black" VerticalAlignment="Center" TextAlignment="Center" Grid.Row="6" Grid.Column="0"  Text="Choose Path to Save The Queries:"></TextBlock>
+        <TextBox Name="TextBoxQuriesPath" VerticalAlignment="Center"  Margin="10,15,10,15" Grid.Column="1" Grid.Row="6" Text="{Binding Path=Value,ElementName=TextBoxQuriesPath}"></TextBox>
+        <Button Content="browse" Name="SaveQuery"  Foreground="Brown"  Grid.Row="6" Grid.Column="2" Margin="15,15,15,15" Click="SaveQuery_Click"></Button>
+        <Border BorderThickness="2" BorderBrush="BurlyWood" Grid.ColumnSpan="3" Grid.RowSpan="4" Grid.Row="0"></Border>
+
+        <Button Content="Search query" Name="startQuery"  Foreground="Brown"  Grid.Row="10" Grid.Column="1" Margin="35,10,35,10" Click="startQuery_Click"></Button>
+
+
+        <Border BorderThickness="2" BorderBrush="BurlyWood" Grid.ColumnSpan="3" Grid.RowSpan="5" Grid.Row="0"></Border>
+        
+        <Button Content="Reset" Name="Reset"  Foreground="Black"  Grid.Row="4" Grid.Column="2"  Margin="15" Click="Reset_Click"></Button>
+        <Button Content="Show Dictionary" Name="ShowDic"  Foreground="Black"  Grid.Row="4" Grid.Column="0"  Margin="50,15,50,15" Click="ShowDic_Click"></Button>
+        <Button Content="Load Dictionary" Name="ReloadDic"  Foreground="Black"  Grid.Row="4" Grid.Column="1" Margin="30,15,30,15" Click="ReloadDic_Click"></Button>
+        
+        <Border BorderThickness="2" BorderBrush="BurlyWood" Grid.ColumnSpan="3" Grid.RowSpan="4" Grid.Row="0"></Border>
+    </Grid>
+</Window>
